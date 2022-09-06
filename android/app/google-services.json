@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918249533772",
+    "project_id": "splash-289cc",
+    "storage_bucket": "splash-289cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918249533772:android:050968cfd61f83382a5fe9",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.splash.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918249533772-e82qg7br6ppvcdc3ehlfmcljh5cfq47n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKyCBQGAkqJfBFlPN86qcme55G4g4jLZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918249533772-e82qg7br6ppvcdc3ehlfmcljh5cfq47n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
